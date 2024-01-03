@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="hero-shape-1">
+        <div class="hero-shape-1">
             <img src="@/assets/images/shape/shape-2.png" alt="">
         </div>
         <div class="hero-shape-2">
@@ -35,7 +35,7 @@
         </div>
         <div class="hero-shape-3">
             <img src="@/assets/images/shape/shape-4.png" alt="">
-        </div> -->
+        </div>
     </section>
     <!--====== APPIE HERO PART end ======-->
 </template>
