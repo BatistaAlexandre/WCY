@@ -100,7 +100,7 @@
               </ul>
             </div>
             <div class="copyright-text">
-              <p>Copyright © 2024 CHalert. All rights reserved.</p>
+              <p>Copyright © 2024 We Clone You. All rights reserved.</p>
             </div>
           </div>
         </div>

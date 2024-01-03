@@ -137,7 +137,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #ed1f27;
+  border: 1px solid #186682;
   padding: 0 30px;
   font-size: 15px;
   line-height: 45px;
@@ -150,21 +150,21 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #ed1f27;
+  background-color: #186682;
 }
 .main-btn:hover {
   background-color: #fff;
-  color: #ed1f27;
-  border-color: #ed1f27;
+  color: #186682;
+  border-color: #186682;
 }
 .main-btn.main-btn-2 {
   background-color: #fff;
-  color: #ed1f27;
-  border-color: #ed1f27;
+  color: #186682;
+  border-color: #186682;
 }
 .main-btn.main-btn-2:hover {
-  background-color: #ed1f27;
-  border-color: #ed1f27;
+  background-color: #186682;
+  border-color: #186682;
   color: #fff;
 }
 
@@ -249,7 +249,7 @@ p {
   width: 40px;
   text-align: center;
   line-height: 40px;
-  background: #ed1f27;
+  background: #186682;
   border-radius: 6px;
   color: #fff;
 }
@@ -257,7 +257,7 @@ p {
   background: #ff3e66;
 }
 .back-to-top.back-to-top-3 a {
-  background: #ff6b58;
+  background: #186682;
 }
 .back-to-top.back-to-top-6 a {
   background: #9b2cfa;
@@ -357,7 +357,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .offcanvas_main_menu li a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .offcanvas_main_menu li ul.sub-menu {
   padding-left: 20px;
@@ -377,7 +377,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .offcanvas_footer span a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .offcanvas_menu_wrapper.active .canvas_close {
@@ -402,9 +402,9 @@ p {
   display: block;
   text-align: center;
   line-height: 40px;
-  border: 1px solid #ed1f27;
+  border: 1px solid #186682;
   border-radius: 10px;
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -413,8 +413,8 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .canvas_close a:hover {
-  background: #ed1f27;
-  border-color: #ed1f27;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 
@@ -434,8 +434,8 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .canvas_open a:hover {
-  color: #ed1f27;
-  border-color: #ed1f27;
+  color: #186682;
+  border-color: #186682;
 }
 
 .offcanvas-social {
@@ -450,7 +450,7 @@ p {
   width: 40px;
   text-align: center;
   line-height: 38px;
-  color: #ed1f27;
+  color: #186682;
   border: 1px solid #eaeaea;
   border-radius: 50%;
   margin: 0 5px;
@@ -461,8 +461,8 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .offcanvas-social ul li a:hover {
-  background: #ed1f27;
-  border-color: #ed1f27;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 
@@ -498,7 +498,7 @@ p {
   bottom: 40px;
   font-weight: 600;
   line-height: 60px;
-  background: #ed1f27;
+  background: #186682;
   padding: 0 15px;
   border-radius: 5px;
 }
@@ -771,11 +771,11 @@ p {
 }
 .amm-single-shopping-cart .cart-content .price {
   font-size: 14px;
-  color: #ed1f27;
+  color: #186682;
 }
 .amm-single-shopping-cart .cart-content .price-discount {
   font-size: 14px;
-  color: #ed1f27;
+  color: #186682;
 }
 .amm-single-shopping-cart .cart-content .price-close {
   font-size: 12px;
@@ -834,7 +834,7 @@ p {
 }
 .amm-shopping_cart-btn .tota p {
   font-size: 18px;
-  color: #ed1f27;
+  color: #186682;
 }
 .amm-shopping_cart-btn .cart-btn a {
   margin: 5px 0;
@@ -940,12 +940,12 @@ p {
   color: #fff;
 }
 .header-nav-box.header-nav-box-3 .appie-btn-box .main-btn {
-  background: #ff6b58;
-  border-color: #ff6b58;
+  background: #186682;
+  border-color: #186682;
 }
 .header-nav-box.header-nav-box-3 .appie-btn-box .main-btn:hover {
   background: transparent;
-  color: #ff6b58;
+  color: #186682;
 }
 .header-nav-box.header-nav-box-3 .toggle-btn {
   color: #fff;
@@ -961,7 +961,7 @@ p {
   .appie-btn-box
   .main-btn:hover {
   background: #fff;
-  color: #ed1f27;
+  color: #186682;
 }
 .header-nav-box.header-nav-box-5 .appie-header-main-menu ul > li > a {
   color: #fff;
@@ -1076,7 +1076,7 @@ p {
   color: #fff;
 }
 .header-nav-box.header-nav-box-7 .appie-header-main-menu ul > li > a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .header-nav-box.header-nav-box-7
   .appie-header-main-menu
@@ -1094,7 +1094,7 @@ p {
   .sub-menu
   li
   a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .header-nav-box.header-nav-box-7 .appie-btn-box .login-btn {
   color: #fff;
@@ -1357,10 +1357,10 @@ p {
   visibility: visible;
 }
 .appie-header-main-menu ul > li .sub-menu > li:hover .sub-nav-toggler {
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-header-main-menu ul > li .sub-menu > li:hover > a {
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-header-main-menu ul > li:hover .sub-menu {
   opacity: 1;
@@ -1461,8 +1461,8 @@ p {
   margin-top: 35px;
 }
 .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .main-btn {
-  border-color: #ff6b58;
-  color: #ff6b58;
+  border-color: #186682;
+  color: #186682;
   background: transparent;
   margin-right: 14px;
 }
@@ -1720,7 +1720,7 @@ p {
   }
 }
 .appie-hero-content > span {
-  color: #ed1f27;
+  color: #186682;
   font-size: 14px;
   font-weight: 500;
 }
@@ -1977,7 +1977,7 @@ p {
   height: 500px;
   width: 500px;
   transform: translate(-50%, -50%);
-  background: #ed1f27;
+  background: #186682;
   border-radius: 50%;
   z-index: -1;
 }
@@ -2345,8 +2345,8 @@ p {
   width: 70px;
   text-align: center;
   line-height: 70px;
-  background: linear-gradient(135deg, #000000 0%, #ff0008 100%);
-  box-shadow: 0px 6px 10px 0px rgb(189 16 16 / 30%);
+  background: linear-gradient(135deg, #000000 0%, #186682 100%);
+  box-shadow: 0px 6px 10px 0px rgb(71 87 111);
   position: relative;
 }
 .appie-single-service .icon > span {
@@ -2373,19 +2373,19 @@ p {
   transform: translateY(-15px);
 }
 .appie-single-service.item-2 .icon {
-  background: linear-gradient(135deg, #000000 0%, #ff0008 100%);
+  background: linear-gradient(135deg, #000000 0%, #186682 100%);
 }
 .appie-single-service.item-2 .icon span {
   background: #7a7a7a;
 }
 .appie-single-service.item-3 .icon {
-  background: linear-gradient(135deg, #000000 0%, #ff0008 100%);
+  background: linear-gradient(135deg, #000000 0%, #186682 100%);
 }
 .appie-single-service.item-3 .icon span {
   background: #7a7a7a;
 }
 .appie-single-service.item-4 .icon {
-  background: linear-gradient(135deg, #000000 0%, #ff0008 100%);
+  background: linear-gradient(135deg, #000000 0%, #186682 100%);
 }
 .appie-single-service.item-4 .icon span {
   background: #7a7a7a;
@@ -2407,7 +2407,7 @@ p {
   margin-top: 25px;
 }
 .appie-single-service.appie-single-services-3 a:hover {
-  color: #ff6b58;
+  color: #186682;
 }
 .appie-single-service.appie-single-services-3.item-2 {
   background: linear-gradient(
@@ -2546,7 +2546,7 @@ p {
 }
 .appie-single-service-2.appie-single-service-about .icon i {
   background-color: #f1f7fe;
-  color: #ed1f27;
+  color: #186682;
   border-radius: 35% 65% 50% 50% / 59% 50% 50% 41%;
   font-size: 20px;
 }
@@ -2565,7 +2565,7 @@ p {
   border-radius: 25% 75% 50% 50% / 50% 50% 50% 50%;
 }
 .appie-single-service-2.appie-single-service-about.item-4 .icon i {
-  color: #ed1f27;
+  color: #186682;
   background-color: #fef0ee;
   border-radius: 40% 60% 40% 60% / 40% 60% 40% 60%;
 }
@@ -2620,7 +2620,7 @@ p {
   margin-bottom: 20px;
 }
 .service-details-sidebar .service-category-widget ul li i {
-  color: #ed1f27;
+  color: #186682;
   width: 15px;
   margin-right: 15px;
 }
@@ -2637,10 +2637,10 @@ p {
   color: #505056;
 }
 .service-details-sidebar .service-download-widget a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .service-details-sidebar .service-download-widget i {
-  color: #ed1f27;
+  color: #186682;
   padding-right: 15px;
 }
 
@@ -2758,13 +2758,13 @@ p {
   margin-right: 10px;
 }
 .appie-features-tabs-btn .nav a.active {
-  border-right-color: #ed1f27;
+  border-right-color: #186682;
   background: transparent;
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-features-tabs-btn .nav a.active i {
   color: #fff;
-  background: #ed1f27;
+  background: #186682;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2780,7 +2780,7 @@ p {
 .appie-features-content span {
   font-size: 14px;
   font-weight: 500;
-  color: #ed1f27;
+  color: #186682;
   margin-bottom: 8px;
 }
 .appie-features-content .title {
@@ -3000,7 +3000,7 @@ p {
 .appie-traffic-title span {
   font-size: 14px;
   font-weight: 500;
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-traffic-title .title {
   font-size: 44px;
@@ -3058,10 +3058,10 @@ p {
   text-align: center;
   line-height: 26px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #000000 0%, #ff0000 100%);
+  background: linear-gradient(135deg, #000000 0%, #1a6d8b 100%);
   color: #fff;
   font-size: 14px;
-  box-shadow: 0px 6px 10px 0px rgb(189 16 16 / 30%);
+  box-shadow: 0px 6px 10px 0px rgb(71 87 111);
 }
 .appie-traffic-service .title {
   font-size: 20px;
@@ -3072,13 +3072,13 @@ p {
   font-size: 15px;
 }
 .appie-traffic-service.item-2 .icon i {
-  background: linear-gradient(135deg, #ff0000 0%, #000000 100%);
+  background: linear-gradient(135deg, #186682 0%, #000000 100%);
 }
 .appie-traffic-service.item-3 .icon i {
-  background: linear-gradient(135deg, #000000 0%, #ff0000 100%);
+  background: linear-gradient(135deg, #000000 0%, #186682 100%);
 }
 .appie-traffic-service.item-4 .icon i {
-  background: linear-gradient(135deg, #ff0000 0%, #000000 100%);
+  background: linear-gradient(135deg, #186682 0%, #000000 100%);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -3105,7 +3105,7 @@ p {
   padding-left: 6px;
 }
 .traffic-btn a.main-btn:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 
@@ -3592,7 +3592,7 @@ p {
 }
 .appie-team-item .thumb ul li a:hover {
   background: #fff;
-  color: #ed1f27;
+  color: #186682;
   border-color: #fff;
 }
 .appie-team-item .content {
@@ -3622,7 +3622,7 @@ p {
   overflow: hidden;
 }
 .appie-team-item.appie-team-item-about .thumb::before {
-  background-color: #ed1f27;
+  background-color: #186682;
 }
 .appie-team-item.appie-team-item-about .thumb ul {
   left: 30px;
@@ -3650,13 +3650,13 @@ p {
   padding-left: 6px;
 }
 .team-btn a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 
 .appie-team-about-area .team-btn a {
-  border-color: #ed1f27;
-  color: #ed1f27;
+  border-color: #186682;
+  color: #186682;
 }
 .appie-team-about-area .team-btn a:hover {
   color: #fff;
@@ -3719,7 +3719,7 @@ p {
   bottom: 4px;
   -webkit-transform: translateX(0px);
   transform: translateX(0px);
-  background-color: #ed1f27;
+  background-color: #186682;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3839,9 +3839,9 @@ p {
   border: 2px solid #e7eaef;
 }
 .pricing-one__single .pricig-body .pricing-btn a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
-  border-color: #ed1f27;
+  border-color: #186682;
 }
 .pricing-one__single .pricing-rebon {
   position: absolute;
@@ -3852,21 +3852,21 @@ p {
   font-size: 14px;
   font-weight: 500;
   color: #fff;
-  background: #ed1f27;
+  background: #186682;
   line-height: 28px;
   padding: 0 18px;
   border-radius: 30px;
-  box-shadow: 0px 10px 20px 0px rgba(183, 30, 10, 0.3);
+  box-shadow: 0px 10px 20px 0px #186682;
 }
 .pricing-one__single.center {
   box-shadow: 0px 40px 40px 0px rgba(14, 17, 51, 0.1);
 }
 .pricing-one__single.center .pricig-body ul li i {
-  color: #ed1f27;
+  color: #186682;
 }
 .pricing-one__single.center .pricig-body .pricing-btn a {
-  background: #ed1f27;
-  border-color: #ed1f27;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 .pricing-one__single:hover {
@@ -4061,7 +4061,7 @@ p {
   font-family: "Font Awesome 5 Pro";
   font-weight: 400;
   font-size: 14px;
-  color: #ed1f27;
+  color: #186682;
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: center;
@@ -4111,7 +4111,7 @@ p {
   opacity: 0;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
-  background: #ed1f27;
+  background: #186682;
   height: 40px;
   width: 40px;
   text-align: center;
@@ -4207,7 +4207,7 @@ p {
   line-height: 80px;
   background: #fff;
   border-radius: 50%;
-  color: #ed1f27;
+  color: #186682;
   position: relative;
 }
 .appie-faq-8-area .faq-play-box .play-btn a::before {
@@ -4284,7 +4284,7 @@ p {
   transform: translateY(-50%);
   height: 5px;
   width: 5px;
-  background: #ed1f27;
+  background: #186682;
   border-radius: 50%;
 }
 .appie-blog-item .content .title {
@@ -4297,7 +4297,7 @@ p {
   color: #0e1133;
 }
 .appie-blog-item .content .title a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-blog-item .content > a {
   font-size: 15px;
@@ -4309,7 +4309,7 @@ p {
   padding-left: 6px;
 }
 .appie-blog-item .content > a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-blog-item:hover .thumb img {
   transform: scale(1.1);
@@ -4321,8 +4321,8 @@ p {
   border: 2px solid #e7eaef;
 }
 .appie-blog-3-area .blog-btn a:hover {
-  background: #ff6b58;
-  border-color: #ff6b58;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 .appie-blog-3-area.appie-blog-6-area .blog-btn a:hover {
@@ -4436,7 +4436,7 @@ p {
   color: #0e1133;
 }
 .appie-blog-item-3 .content .title a:hover {
-  color: #ff6b58;
+  color: #186682;
 }
 .appie-blog-item-3 .content ul {
   margin: 0;
@@ -4488,7 +4488,7 @@ p {
 .bisylms-pagination a,
 .bisylms-pagination span {
   font-size: 14px;
-  color: #ed1f27;
+  color: #186682;
   font-weight: 600;
   line-height: 40px;
   background: rgba(88, 56, 252, 0.1);
@@ -4507,7 +4507,7 @@ p {
 .bisylms-pagination a:hover,
 .bisylms-pagination .current {
   color: #fff;
-  background: #ed1f27;
+  background: #186682;
   -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
   -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
   box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
@@ -4623,7 +4623,7 @@ p {
 }
 
 .search-form button:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .blog-sidebar .widget ul {
@@ -4660,7 +4660,7 @@ p {
 }
 
 .blog-sidebar .widget ul li a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .blog-sidebar .widget ul li span {
@@ -4701,7 +4701,7 @@ p {
 }
 
 .popular-post h5 a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .popular-post span {
@@ -4731,7 +4731,7 @@ p {
 }
 
 .tags a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 
@@ -4823,7 +4823,7 @@ blockquote:before {
   font-family: "Open Sans", sans-serif;
   font-size: 100px;
   line-height: 25px;
-  color: #ed1f27;
+  color: #186682;
   letter-spacing: -5px;
   -moz-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
@@ -4891,7 +4891,7 @@ blockquote cite {
 }
 
 .post-tags a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 
@@ -5056,7 +5056,7 @@ blockquote cite {
 }
 
 .single-comment h5 a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .single-comment span {
@@ -5084,7 +5084,7 @@ blockquote cite {
   display: inline-block;
   font-size: 12px;
   line-height: 0.8;
-  color: #ed1f27;
+  color: #186682;
   font-weight: 600;
 }
 
@@ -5195,7 +5195,7 @@ blockquote cite {
 .comment-form input[type="submit"] {
   height: 50px;
   border-radius: 3px;
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
   text-align: center;
   border: none;
@@ -5257,7 +5257,7 @@ blockquote cite {
   bottom: 0;
   font-family: "ElegantIcons";
   content: "\4e";
-  color: #ed1f27;
+  color: #186682;
   font-size: 10px;
   left: 2px;
   position: absolute;
@@ -5308,7 +5308,7 @@ blockquote cite {
 }
 
 .bp-meta a i {
-  color: #ed1f27;
+  color: #186682;
   margin-right: 9px;
   position: relative;
   top: 1px;
@@ -5319,7 +5319,7 @@ blockquote cite {
 }
 
 .bp-meta a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .b-post-details h3 {
@@ -5335,7 +5335,7 @@ blockquote cite {
 }
 
 .b-post-details h3 a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .post-item-1:hover {
@@ -5353,7 +5353,7 @@ blockquote cite {
   padding-left: 8px;
 }
 .b-post-details a.read-more:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 
 /*===========================
@@ -5657,14 +5657,14 @@ blockquote cite {
   margin-right: 5px;
 }
 .footer-about-widget .social ul li a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 .footer-about-widget.footer-about-widget-2 ul li a:hover {
   background: #ff3e66;
 }
 .footer-about-widget.footer-about-widget-3 ul li a:hover {
-  background: #ff6b58;
+  background: #186682;
 }
 .footer-about-widget.footer-about-widget-6 ul li a:hover {
   background: #9b2cfa;
@@ -5698,13 +5698,13 @@ blockquote cite {
   margin-bottom: 6px;
 }
 .footer-navigation ul li a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .footer-navigation.footer-navigation-2 ul li a:hover {
   color: #ff3e66;
 }
 .footer-navigation.footer-navigation-3 ul li a:hover {
-  color: #ff6b58;
+  color: #186682;
 }
 .footer-navigation.footer-navigation-6 ul li a:hover {
   color: #9b2cfa;
@@ -5743,7 +5743,7 @@ blockquote cite {
   position: absolute;
   left: 0;
   top: 0;
-  color: #ed1f27;
+  color: #186682;
 }
 
 .footer-copyright {
@@ -5841,7 +5841,7 @@ blockquote cite {
   padding: 0 50px;
 }
 .appie-error-content a {
-  border: 2px solid #ed1f27;
+  border: 2px solid #186682;
   line-height: 45px;
   padding: 0 35px;
   border-radius: 6px;
@@ -5945,7 +5945,7 @@ blockquote cite {
   }
 }
 .appie-signup-box form .input-box button {
-  background: #ed1f27;
+  background: #186682;
   line-height: 55px;
   border: 0;
   color: #fff;
@@ -6182,17 +6182,17 @@ blockquote cite {
 }
 .appie-about-3-area .appie-traffic-service .icon {
   position: static;
-  background-image: -moz-linear-gradient(120deg, #ed1f27 0%, #84bcfa 100%);
-  background-image: -webkit-linear-gradient(120deg, #ed1f27 0%, #84bcfa 100%);
-  background-image: -ms-linear-gradient(120deg, #ed1f27 0%, #84bcfa 100%);
-  background-image: linear-gradient(120deg, #ed1f27 0%, #84bcfa 100%);
+  background-image: -moz-linear-gradient(120deg, #186682 0%, #84bcfa 100%);
+  background-image: -webkit-linear-gradient(120deg, #186682 0%, #84bcfa 100%);
+  background-image: -ms-linear-gradient(120deg, #186682 0%, #84bcfa 100%);
+  background-image: linear-gradient(120deg, #186682 0%, #84bcfa 100%);
   display: inline-block;
   height: 50px;
   width: 50px;
   text-align: center;
   border-radius: 50%;
   line-height: 50px;
-  box-shadow: 0px 6px 10px 0px rgb(189 16 16 / 30%);
+  box-shadow: 0px 6px 10px 0px rgb(71 87 111);
   margin-bottom: 23px;
 }
 .appie-about-3-area .appie-traffic-service.item-2 .icon {
@@ -6208,10 +6208,10 @@ blockquote cite {
   background-image: linear-gradient(120deg, #9b2cfa 0%, #d8aaff 100%);
 }
 .appie-about-3-area .appie-traffic-service.item-4 .icon {
-  background-image: -moz-linear-gradient(120deg, #ed1f27 0%, #f7b8af 100%);
-  background-image: -webkit-linear-gradient(120deg, #ed1f27 0%, #f7b8af 100%);
-  background-image: -ms-linear-gradient(120deg, #ed1f27 0%, #f7b8af 100%);
-  background-image: linear-gradient(120deg, #ed1f27 0%, #f7b8af 100%);
+  background-image: -moz-linear-gradient(120deg, #186682 0%, #f7b8af 100%);
+  background-image: -webkit-linear-gradient(120deg, #186682 0%, #f7b8af 100%);
+  background-image: -ms-linear-gradient(120deg, #186682 0%, #f7b8af 100%);
+  background-image: linear-gradient(120deg, #186682 0%, #f7b8af 100%);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -6342,7 +6342,7 @@ blockquote cite {
 }
 .appie-about-page-content a:hover {
   background: #fff;
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-about-page-content::before {
   position: absolute;
@@ -6402,7 +6402,7 @@ blockquote cite {
   line-height: 50px;
   border-radius: 50%;
   background: #eef4ff;
-  color: #ed1f27;
+  color: #186682;
   font-size: 22px;
   font-weight: 500;
 }
@@ -6411,7 +6411,7 @@ blockquote cite {
   font-weight: 500;
 }
 .appie-how-it-work-content .how-it-work-box:hover span {
-  background: #ed1f27;
+  background: #186682;
   box-shadow: 0px 14px 20px 0px rgba(0, 43, 130, 0.3);
   color: #fff;
 }
@@ -6955,16 +6955,16 @@ blockquote cite {
   margin-top: 33px;
 }
 .appie-download-3-box .content a.main-btn:hover {
-  background: #ff6b58;
-  border-color: #ff6b58;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 .appie-download-3-box .content a.main-btn i {
   padding-right: 6px;
 }
 .appie-download-3-box .content a.main-btn.main-btn-2 {
-  background: #ff6b58;
-  border-color: #ff6b58;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 .appie-download-3-box .content a.main-btn.main-btn-2:hover {
@@ -7101,7 +7101,7 @@ blockquote cite {
   line-height: 70px;
   background: #fff;
   border-radius: 50%;
-  color: #ff6b58;
+  color: #186682;
   position: relative;
   z-index: 5;
 }
@@ -7205,7 +7205,7 @@ blockquote cite {
   margin: 0 3px;
 }
 .appie-showcase-slider .slick-dots li.slick-active button {
-  background: #ff6b58;
+  background: #186682;
 }
 
 /*===========================
@@ -7263,7 +7263,7 @@ blockquote cite {
 .single-info p i {
   font-size: 16px;
   line-height: 22px;
-  color: #ed1f27;
+  color: #186682;
   position: absolute;
   left: 0;
   top: 0;
@@ -7382,7 +7382,7 @@ blockquote cite {
 .contact-form input[type="submit"] {
   height: 50px;
   border-radius: 3px;
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
   text-align: center;
   border: none;
@@ -7424,7 +7424,7 @@ blockquote cite {
 }
 
 .condition-check label a {
-  color: #ed1f27;
+  color: #186682;
 }
 
 .condition-check label a:hover {
@@ -7451,7 +7451,7 @@ blockquote cite {
   bottom: 0;
   font-family: "Font Awesome 5 Pro";
   content: "\f00c";
-  color: #ed1f27;
+  color: #186682;
   font-size: 10px;
   left: 3px;
   position: absolute;
@@ -7526,8 +7526,8 @@ blockquote cite {
 }
 .appie-shop-grid-area .bisylms-pagination a:hover {
   box-shadow: none;
-  background: #ed1f27;
-  border-color: #ed1f27;
+  background: #186682;
+  border-color: #186682;
   color: #fff;
 }
 .appie-shop-grid-area .bisylms-pagination span {
@@ -7557,7 +7557,7 @@ blockquote cite {
   top: 0;
   height: 100%;
   width: 60%;
-  background: #ed1f27;
+  background: #186682;
   transform: translateX(-50%);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7574,7 +7574,7 @@ blockquote cite {
   left: 50px;
   top: 50%;
   transform: translateY(-50%);
-  background: #ed1f27;
+  background: #186682;
   box-shadow: 0px 4px 10px 0px rgba(0, 14, 58, 0.2);
   cursor: pointer;
 }
@@ -7592,7 +7592,7 @@ blockquote cite {
   right: 50px;
   top: 50%;
   transform: translateY(-50%);
-  background: #ed1f27;
+  background: #186682;
   box-shadow: 0px 4px 10px 0px rgba(0, 14, 58, 0.2);
   cursor: pointer;
 }
@@ -7627,7 +7627,7 @@ blockquote cite {
   color: #63636a;
 }
 .appie-shop-sidebar .shop-category-widget ul li a:hover {
-  color: #ed1f27;
+  color: #186682;
 }
 .appie-shop-sidebar .shop-best-product-widget {
   margin-top: 37px;
@@ -7652,7 +7652,7 @@ blockquote cite {
   display: block;
   font-size: 14px;
   font-weight: 500;
-  color: #ed1f27;
+  color: #186682;
   color: #0e1133;
 }
 .appie-shop-sidebar .shop-best-product-widget .shop-product .content span {
@@ -7736,7 +7736,7 @@ blockquote cite {
   top: 0;
 }
 .single-shop-box .thumb .reborn span {
-  background: #ed1f27;
+  background: #186682;
   font-size: 13px;
   font-weight: 500;
   color: #fff;
@@ -7768,7 +7768,7 @@ blockquote cite {
   border-radius: 5px;
 }
 .single-shop-box .thumb .cart-list-icon ul li a:hover {
-  background: #ed1f27;
+  background: #186682;
   color: #fff;
 }
 .single-shop-box .content {
@@ -7841,7 +7841,7 @@ blockquote cite {
 }
 .shop-buttons .product-quantity button:hover,
 .shop-buttons .product-quantity button:focus {
-  color: #ed1f27;
+  color: #186682;
 }
 @media (max-width: 767px) {
   .shop-buttons .product-quantity button {
@@ -7998,8 +7998,8 @@ blockquote cite {
 }
 .shop-details-box .nav .nav-item .nav-link.active {
   background: #eef1f6;
-  color: #ed1f27;
-  border-bottom: 2px solid #ed1f27;
+  color: #186682;
+  border-bottom: 2px solid #186682;
 }
 
 .shop-description p {
@@ -8149,7 +8149,7 @@ blockquote cite {
   border-radius: 6px;
 }
 .rating-form-box .input-box > input:focus {
-  border-color: #ed1f27;
+  border-color: #186682;
 }
 .rating-form-box .input-box textarea {
   width: 100%;
@@ -8162,7 +8162,7 @@ blockquote cite {
   padding-top: 10px;
 }
 .rating-form-box .input-box textarea:focus {
-  border-color: #ed1f27;
+  border-color: #186682;
 }
 .rating-form-box .input-box .condition-check label {
   font-size: 14px;
@@ -8188,7 +8188,7 @@ blockquote cite {
   border: 0;
 }
 .shop-related-product-slider-active .slick-dots li.slick-active button {
-  background: #ed1f27;
+  background: #186682;
 }
 
 /*# sourceMappingURL=style.css.map */

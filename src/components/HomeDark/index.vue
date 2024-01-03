@@ -25,7 +25,7 @@
 
     <hero-home-one
       :class="[dark ? 'appie-hero-area-dark' : '']"
-      welcome_message="Welcome To CHalert"
+      welcome_message="Welcome To We Clone You"
       slogan="Lorem ipsum dolor sit amet, consectetur"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu mauris eu purus hendrerit congue."
       first_button_content="BT 1Lorem ipsum dolor sit"
@@ -133,7 +133,7 @@
     <!--====== APPIE PROJECT PART START ======-->
 
     <project-home-one
-      title="Start your project with CHAlert."
+      title="Start your project with We Clone You."
       description="We will email you only about this product."
     />
 
