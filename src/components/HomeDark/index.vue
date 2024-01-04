@@ -207,13 +207,25 @@ export default {
       sidebar: false,
       showloading: true,
       navs: [
+        // {
+        //   name: "Home",
+        //   path: "#",
+        // },
         {
-          name: "Home",
-          path: "#",
+          name: "For Companies",
+          path: "/service-details",
         },
         {
-          name: "service",
+          name: "For Candidates",
           path: "/service-details",
+        },
+        {
+          name: "Pricing",
+          path: "/service-details",
+        },
+        {
+          name: "contact",
+          path: "/contact",
         },
         // {
         //   name: "pages",
@@ -259,10 +271,7 @@ export default {
         // },
 
 
-        {
-          name: "contact",
-          path: "/contact",
-        },
+        
       ],
       itemsGrid: [
         {
